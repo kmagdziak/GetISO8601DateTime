@@ -1,0 +1,13 @@
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.exe
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.deps.json
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.runtimeconfig.json
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.runtimeconfig.dev.json
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.dll
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\bin\Debug\netcoreapp3.1\GetISO8601DateTime.pdb
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.csprojAssemblyReference.cache
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.AssemblyInfoInputs.cache
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.AssemblyInfo.cs
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.dll
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.pdb
+C:\Users\Klaud\RiderProjects\GetISO8601DateTime\GetISO8601DateTime\obj\Debug\netcoreapp3.1\GetISO8601DateTime.genruntimeconfig.cache
